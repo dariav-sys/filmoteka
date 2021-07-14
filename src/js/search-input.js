@@ -1,5 +1,5 @@
 import { markup } from "./markup.js";
-import { onSpin, offSpin } from "./spinner.js";
+import { onSpin, offSpin } from "./spinner_.js";
 import { currentPage } from "./pagination";
 import config from "../data-base//config.json";
 import refs from "./refs.js";
